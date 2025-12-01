@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "again",
+  "base_artist": "R.I.K",
+  "createdAt": "2025-12-01T05:21:44.814541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Again",
+      "artist": "Noah Cyrus feat. XXXTENTACION",
+      "has_synced": true,
+      "path": "select/02_Again_Noah_Cyrus_feat._XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Again",
+      "artist": "Noah Cyrus;Xxxtentacion",
+      "has_synced": true,
+      "path": "select/03_Again_Noah_Cyrus;Xxxtentacion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Country Again",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/04_Country_Again_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friends Again",
+      "artist": "LVTHER feat. Claire Ridgely",
+      "has_synced": true,
+      "path": "select/05_Friends_Again_LVTHER_feat._Claire_Ridgely.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friends Again",
+      "artist": "LVTHER, Claire Ridgely",
+      "has_synced": true,
+      "path": "select/06_Friends_Again_LVTHER,_Claire_Ridgely.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Play It Again",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/07_Play_It_Again_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "'Til I See You Again",
+      "artist": "Catie Offerman",
+      "has_synced": true,
+      "path": "select/08_'Til_I_See_You_Again_Catie_Offerman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again",
+      "artist": "The Forester Sisters",
+      "has_synced": true,
+      "path": "select/09_(I'd_Choose)_You_Again_The_Forester_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(I'd Choose) You Again (Album Version)",
+      "artist": "THE FORESTER SISTERS",
+      "has_synced": true,
+      "path": "select/10_(I'd_Choose)_You_Again_(Album_Version)_THE_FORESTER_SISTERS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(I'm So) Afraid of Losing You Again",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/11_(I'm_So)_Afraid_of_Losing_You_Again_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Over Again",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/12_All_Over_Again_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Atlanta Burned Again Last Night",
+      "artist": "Atlanta",
+      "has_synced": false,
+      "path": "select/13_Atlanta_Burned_Again_Last_Night_Atlanta.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back Home Again",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/14_Back_Home_Again_John_Denver.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back In My Arms Again - Edit",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/15_Back_In_My_Arms_Again_-_Edit_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Broke Again",
+      "artist": "Joshua Hedley",
+      "has_synced": true,
+      "path": "select/16_Broke_Again_Joshua_Hedley.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cool Again",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/17_Cool_Again_Kane_Brown.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "again",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_again_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "again",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_02_again_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Again[Album Version]",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_03_Again[Album_Version]_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "AGAINST",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_04_AGAINST_YUI.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Again",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_05_Again_YUI.txt"
+    }
+  ]
+}
